@@ -73,6 +73,7 @@ Phase1 地基 → Phase2 精读 → Phase3 RAG → Phase4 多agent → Phase5 �
 ## 文档索引
 
 - [Phase 1 逐日任务](./03-Phase1-逐日任务.md) —— **当前进行中**
+- [Phase 2 逐日任务](./04-Phase2-逐日任务.md) —— 蓝图(Phase 1 毕业后执行)
 - [知识检查点清单](./02-知识检查点.md)
 - 学习记录:见 `notebook/`(每日笔记、踩坑记录、阶段复盘)
 
